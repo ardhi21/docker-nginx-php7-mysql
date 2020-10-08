@@ -1,4 +1,6 @@
 .idea
 .git
+.env
+.env.example
 application/
 sourcefiles/mysql
